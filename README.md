@@ -5,7 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140&section=header"/>
+<!-- Minimal Glass Glow Divider -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glow&text1=AI%20Focused%20Developer&width=900&height=120" />
+</p>
 
 ---
 
@@ -86,16 +89,14 @@ Future → AI-powered SaaS & scalable tech products 🚀
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:priyank.khatri.cg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/priyankkhatrii">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=140&section=footer"/>
 
 <h3 align="center">⚡ Code. Lift. Build. Repeat.</h3>
