@@ -5,13 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
 </p>
 
-<!-- Minimal Glass Glow Divider (Fixed + Smaller) -->
+<!-- Clean Minimal Animated Divider (75% width) -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=100&section=header&text=AI%20Focused%20Developer&fontSize=28&fontColor=00F5FF&animation=fadeIn" 
     width="75%" 
   />
 </p>
+
 ---
 
 ## 🧊 About Me
@@ -61,20 +62,16 @@ my goal is to build scalable AI-powered products.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankkhatri&theme=midnight-purple&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyankkhatri&theme=algolia&no-frame=true&row=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Priyankkhatri&theme=midnight-purple&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🌌 Profile Summary
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyankkhatri&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyankkhatri&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -94,7 +91,7 @@ Future → AI-powered SaaS & scalable tech products 🚀
   <a href="mailto:priyank.khatri.cg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/priyankkhatrii">
+  <a href="https://linkedin.com/in/priyankhatrii">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
