@@ -5,11 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
 </p>
 
-<!-- Minimal Glass Glow Divider -->
+<!-- Minimal Glass Glow Divider (Fixed + Smaller) -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glow&text1=AI%20Focused%20Developer&width=900&height=120" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=100&section=header&text=AI%20Focused%20Developer&fontSize=28&fontColor=00F5FF&animation=fadeIn" 
+    width="75%" 
+  />
 </p>
-
 ---
 
 ## 🧊 About Me
