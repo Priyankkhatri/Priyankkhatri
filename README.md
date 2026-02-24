@@ -1,8 +1,72 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=800&color=00F0FF&center=true&vCenter=true&width=1000&lines=PRIYANK+KHATRI;AI+%7C+FULL+STACK+%7C+PRODUCT+MINDSET;BUILDING+FUTURE+SYSTEMS;CODE.+CREATE.+DOMINATE."/>
-</h1>
+<h1 align="center">Hey 👋, I'm Priyank</h1>
+<h3 align="center">BTech CSE Student | AI Product Builder | Creative Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:0f2027&height=200&section=header&animation=twinkling"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=140&section=header"/>
+
+---
+
+## 🧊 About Me
+
+```diff
++ BTech CSE Student (CSE)
++ AI & Product Management Focused
++ Strong C/C++ Fundamentals
++ React + Modern UI Enthusiast
++ Gym Discipline + Tech Discipline
+```
+
+I build structured systems with clean UI and solid backend logic.  
+From **C/C++ problem solving** to **React-based interfaces**,  
+my goal is to build scalable AI-powered products.
+
+---
+
+## 🧠 Current Mission
+
+⚡ Mastering DSA & C++  
+⚛️ Advanced React + UI Engineering  
+🤖 AI Systems + Product Strategy  
+🚀 Shipping Real Projects  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Core Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css" />
+</p>
+
+### ⚛️ Frontend Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" />
+</p>
+
+### 🗄 Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,redis,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankkhatri&theme=midnight-purple&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyankkhatri&theme=algolia&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 🌌 Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyankkhatri&theme=github_dark"/>
@@ -10,51 +74,28 @@
 
 ---
 
-## ⚡ SYSTEM STATUS
+## 🚀 Vision
+
+> I don't just write code.  
+> I architect digital products.
+
+Future → AI-powered SaaS & scalable tech products 🚀
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankkhatri&theme=radical&hide_border=true&background=000000"/>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🔥 LIVE ACTIVITY MATRIX
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=140&section=footer"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyankkhatri&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
-## 🐍 NEURAL CONTRIBUTION SYSTEM
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/snake-dark.svg" />
-</p>
-
----
-
-## 🧠 AI CORE STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,react,nodejs,mongodb,mysql,redis,git,github,vscode&perline=6" />
-</p>
-
----
-
-## 🌌 PRODUCT VISION
-
-```diff
-+ AI Systems
-+ Scalable SaaS
-+ Clean UI Engineering
-+ High Performance Backend
-+ Product Leadership in Tech
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=200&section=footer&animation=twinkling"/>
-
-<h3 align="center">⚡ EXECUTION MODE: ALWAYS ON</h3>
+<h3 align="center">⚡ Code. Lift. Build. Repeat.</h3>
