@@ -12,9 +12,7 @@
     width="75%" 
   />
 </p>
-
 ---
-
 ## 🧊 About Me
 
 ```diff
