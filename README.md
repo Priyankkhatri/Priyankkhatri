@@ -92,6 +92,15 @@ Future → AI-powered SaaS & scalable tech products 🚀
   <a href="https://linkedin.com/in/priyankhatrii">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+    <a href="https://x.com/PriyankKhatrii">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Priyank_Khatri/">
+    <img src="https://img.shields.io/badge/leetcode-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/priyankhatrii/">
+    <img src="https://img.shields.io/badge/instagram-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
