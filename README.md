@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Priyank</h1>
-<h3 align="center">BTech CSE Student | AI Product Builder | Creative Developer</h3>
+<h3 align="center">BTech CSE Student | AI Product Builder | Full Stack/ MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
