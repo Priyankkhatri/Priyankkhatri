@@ -1,18 +1,23 @@
+## 📘 About Me
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="420" height="300" align="right" />
+
 <h1 align="center">Hey 👋, I'm Priyank</h1>
-<h3 align="center">BTech CSE Student | AI Product Builder | Full Stack/ MERN Stack Developer</h3>
+<h3 align="center">BTech CSE Student | AI Product Builder | Full Stack / MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
 </p>
 
-<!-- Clean Minimal Animated Divider (75% width) -->
+<!-- Animated Divider -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=100&section=header&text=AI%20Focused%20Developer&fontSize=28&fontColor=00F5FF&animation=fadeIn" 
     width="75%" 
   />
 </p>
+
 ---
+
 ## 🧊 About Me
 
 ```diff
