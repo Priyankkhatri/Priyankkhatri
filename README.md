@@ -121,6 +121,10 @@
 
 <div align="center">
 
+<img src="https://github-stats-alpha.vercel.app/api?username=Priyankkhatri&cc=0d1117&tc=00f5ff&ic=00f5ff&bc=0d1117"/>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com/?user=Priyankkhatri&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
@@ -131,6 +135,12 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════ -->
+
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00F5FF/Priyankkhatri" alt="Priyank's GitHub Chart" width="100%"/>
+</div>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
