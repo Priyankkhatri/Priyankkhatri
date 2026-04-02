@@ -1,126 +1,210 @@
-## 📘 About Me
+<div align="center">
 
-<h1 align="center">Hey 👋, I'm Priyank</h1>
-<h3 align="center">
-BTech CSE Student • AI Product Builder • Full Stack / MERN Developer
-</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Tech" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=200&section=header&text=Priyank%20Khatri&fontSize=60&fontColor=00F5FF&fontAlignY=38&desc=BTech%20CSE%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20MERN%20Developer&descAlignY=58&descSize=18&descColor=8892b0&animation=fadeIn" width="100%"/>
 
----
+<br/>
 
-## 🧊 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Full+Stack+%2F+MERN+Developer+%F0%9F%9A%80;AI+Product+Builder+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Always+Building+%2C+Always+Learning+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header" width="100%"/>
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-- 👨‍💻 Full Stack Developer specializing in **MERN Stack**  
-- 💻 Currently exploring **System Design & Advanced Backend**  
-- 🚀 Building **real-world scalable applications**  
-- 🌱 Passionate about **clean UI & performance optimization**  
-- 🧠 Strong in **DSA & Problem Solving**  
-- 🤝 Enjoy collaborating in **team environments**  
-- 💡 Creative mindset + love for building impactful tech  
+🚀 &nbsp;**Full Stack Dev** specializing in the **MERN Stack**
+&nbsp;&nbsp;&nbsp;&nbsp;→ Building scalable, real-world applications
+
+💻 &nbsp;Currently mastering **System Design & Advanced Backend**
+&nbsp;&nbsp;&nbsp;&nbsp;→ Architecting for performance & reliability
+
+🧠 &nbsp;Competitive coder with strong **DSA & Problem Solving** skills
+&nbsp;&nbsp;&nbsp;&nbsp;→ C++, algorithms, and clean logic
+
+🌱 &nbsp;Obsessed with **clean UI, animations & performance**
+&nbsp;&nbsp;&nbsp;&nbsp;→ Every pixel and millisecond matters
+
+🤖 &nbsp;Exploring **AI Systems & Product Thinking**
+&nbsp;&nbsp;&nbsp;&nbsp;→ Building tools that are actually useful
+
+💡 &nbsp;**Creative builder** who loves impactful, meaningful tech
 
 </td>
-
-<td width="45%" align="center">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="320"/>
+<td width="45%" align="center" valign="center">
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" style="border-radius: 12px;"/>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
 </td>
 </tr>
 </table>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 Current Mission
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CURRENT MISSION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-⚡ Mastering DSA & C++  
-⚛️ Advanced React + UI Engineering  
-🤖 AI Systems + Product Thinking  
-🚀 Shipping Real Projects  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Current Mission
 
----
+<div align="center">
 
-## 🛠 Tech Stack
+| 🎯 Focus Area | 📌 Goal |
+|:---|:---|
+| ⚡ **DSA & C++** | Mastering algorithmic thinking & competitive coding |
+| ⚛️ **React + UI Engineering** | Advanced patterns, animations, and performance |
+| 🤖 **AI Systems** | Building AI-powered products with real impact |
+| 🚀 **Shipping Projects** | From idea → deployed product, fast |
 
-### 💻 Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css" />
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
+
+<div align="center">
+
+### 💻 &nbsp;Core Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,html,css&theme=dark" />
 </p>
 
-### ⚛️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma" />
+### ⚛️ &nbsp;Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,figma&theme=dark" />
 </p>
 
-### 🗄 Backend & DB
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,redis,git,github" />
+### 🗄️ &nbsp;Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Priyankkhatri&theme=midnight-purple&hide_border=true" height="165"/>
+### 🔧 &nbsp;Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
 </p>
 
----
+</div>
 
-## 📈 Contribution Graph
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyankkhatri&theme=github-dark&hide_border=true&area=true"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
----
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
-## 🚀 Vision
+<div align="center">
 
-> I don't just write code. I architect digital products.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=8892b0"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankkhatri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=8892b0"/>
 
-Future → AI-powered SaaS & scalable tech 🚀
+<br/><br/>
 
----
+<img src="https://streak-stats.demolab.com?user=Priyankkhatri&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=8892b0&dates=8892b0" height="180em"/>
 
-## 🌐 Connect With Me
+</div>
 
-<p align="center">
-  <a href="mailto:priyank.khatri.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/priyankhatrii">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/priyankhatrii">
-    <img src="https://img.shields.io/badge/Resume-3B82F6?style=for-the-badge&logo=readme&logoColor=white"/>
-  </a>
-</p>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION GRAPH -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🔗 Socials
+## 📈 &nbsp;Contribution Graph
 
-<p align="center">
-  <a href="https://linkedin.com/in/priyankhatrii">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/PriyankKhatrii">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Priyank_Khatri/">
-    <img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  </a>
-  <a href="https://www.instagram.com/priyankhatrii/">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=pink"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyankkhatri&theme=react-dark&hide_border=true&area=true&area_color=00F5FF&line=00F5FF&point=00F5FF&bg_color=0D1117" width="100%"/>
+</div>
 
----
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h3 align="center">⚡ Code • Lift • Build • Repeat</h3>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏆 &nbsp;GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Priyankkhatri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- VISION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Vision
+
+<div align="center">
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "I don't just write code.                          ║
+║    I architect digital products."                    ║
+║                                                      ║
+║   Future → AI-powered SaaS & scalable tech 🚀        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 &nbsp;Connect With Me
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankhatrii)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PriyankKhatrii)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Priyank_Khatri/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/priyankhatrii/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank.khatri.cg@gmail.com)
+
+<br/>
+
+</div>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Code%20%E2%80%A2%20Lift%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&fontSize=20&fontColor=00F5FF&fontAlignY=65&animation=fadeIn" width="100%"/>
