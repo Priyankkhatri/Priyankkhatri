@@ -121,13 +121,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priyankkhatri&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=8892b0"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankkhatri&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=8892b0"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Priyankkhatri&theme=midnight-purple&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=8892b0&dates=8892b0" height="180em"/>
+<img src="https://streak-stats.demolab.com/?user=Priyankkhatri&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
 
@@ -138,10 +132,10 @@
 <!-- CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📈 &nbsp;Contribution Graph
+## 📈 &nbsp;Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyankkhatri&theme=react-dark&hide_border=true&area=true&area_color=00F5FF&line=00F5FF&point=00F5FF&bg_color=0D1117" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <!-- ANIMATED DIVIDER -->
@@ -151,10 +145,15 @@
 <!-- TROPHIES -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏅 &nbsp;Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Priyankkhatri&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black)
+![MERN](https://img.shields.io/badge/Stack-MERN%20Developer-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black)
+![AI](https://img.shields.io/badge/Focus-AI%20Product%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black)
+![Learning](https://img.shields.io/badge/Always-Learning-00F5FF?style=for-the-badge&logo=readthedocs&logoColor=black)
+
 </div>
 
 <!-- ANIMATED DIVIDER -->
