@@ -6,14 +6,7 @@ BTech CSE Student • AI Product Builder • Full Stack / MERN Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Building+Futuristic+Products;AI+Focused+Developer;Full+Stack+Explorer;Turning+Logic+Into+Impact;Code.+Design.+Scale."/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=80&section=header&text=AI%20Focused%20Developer&fontSize=24&fontColor=00F5FF&animation=fadeIn" 
-    width="70%" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
 ---
