@@ -132,12 +132,6 @@
 <!-- CONTRIBUTION GRAPH -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📈 &nbsp;Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
