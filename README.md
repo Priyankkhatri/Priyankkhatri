@@ -22,7 +22,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=3&section=header" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
@@ -51,29 +51,37 @@
 </td>
 <td width="45%" align="center" valign="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" style="border-radius: 12px;"/>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
 </td>
 </tr>
 </table>
+
+## 🌐 &nbsp;Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankhatrii)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PriyankKhatrii)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Priyank_Khatri/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/priyankhatrii/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank.khatri.cg@gmail.com)
+
+</div>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CURRENT MISSION -->
+<!-- HIGHLIGHTS -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Current Mission
+## 🏅 &nbsp;Highlights
 
 <div align="center">
 
-| 🎯 Focus Area | 📌 Goal |
-|:---|:---|
-| ⚡ **DSA & C++** | Mastering algorithmic thinking & competitive coding |
-| ⚛️ **React + UI Engineering** | Advanced patterns, animations, and performance |
-| 🤖 **AI Systems** | Building AI-powered products with real impact |
-| 🚀 **Shipping Projects** | From idea → deployed product, fast |
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black)
+![MERN](https://img.shields.io/badge/Stack-MERN%20Developer-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black)
+![AI](https://img.shields.io/badge/Focus-AI%20Product%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black)
+![Learning](https://img.shields.io/badge/Always-Learning-00F5FF?style=for-the-badge&logo=readthedocs&logoColor=black)
 
 </div>
 
@@ -144,70 +152,6 @@
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏅 &nbsp;Highlights
-
-<div align="center">
-
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black)
-![MERN](https://img.shields.io/badge/Stack-MERN%20Developer-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black)
-![AI](https://img.shields.io/badge/Focus-AI%20Product%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black)
-![Learning](https://img.shields.io/badge/Always-Learning-00F5FF?style=for-the-badge&logo=readthedocs&logoColor=black)
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- VISION -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp;Vision
-
-<div align="center">
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   "I don't just write code.                          ║
-║    I architect digital products."                    ║
-║                                                      ║
-║   Future → AI-powered SaaS & scalable tech 🚀        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp;Connect With Me
-
-<div align="center">
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyankhatrii)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PriyankKhatrii)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Priyank_Khatri/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/priyankhatrii/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank.khatri.cg@gmail.com)
-
-<br/>
-
-</div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Code%20%E2%80%A2%20Lift%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&fontSize=20&fontColor=00F5FF&fontAlignY=65&animation=fadeIn" width="100%"/>
