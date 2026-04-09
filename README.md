@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HERO SECTION -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=200&section=header&text=Priyank%20Khatri&fontSize=60&fontColor=00F5FF&fontAlignY=38&desc=BTech%20CSE%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20MERN%20Developer&descAlignY=58&descSize=18&descColor=8892b0&animation=fadeIn" width="100%"/>
 
 <br/>
@@ -12,18 +8,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Full+Stack+%2F+MERN+Developer+%F0%9F%9A%80;AI+Product+Builder+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Always+Building+%2C+Always+Learning+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-</div>
+<br/><br/>
 
-<!-- ANIMATED DIVIDER -->
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black)
+![MERN](https://img.shields.io/badge/Stack-MERN%20Developer-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black)
+![AI](https://img.shields.io/badge/Focus-AI%20Product%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black)
+![Learning](https://img.shields.io/badge/Always-Learning-00F5FF?style=for-the-badge&logo=readthedocs&logoColor=black)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
+</div>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
@@ -54,6 +54,7 @@
 </td>
 </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 &nbsp;Connect With Me
 
@@ -68,22 +69,6 @@
 </div>
 
 <!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- HIGHLIGHTS -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏅 &nbsp;Highlights
-
-<div align="center">
-
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black)
-![MERN](https://img.shields.io/badge/Stack-MERN%20Developer-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black)
-![AI](https://img.shields.io/badge/Focus-AI%20Product%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black)
-![Learning](https://img.shields.io/badge/Always-Learning-00F5FF?style=for-the-badge&logo=readthedocs&logoColor=black)
-
-</div>
 
 <!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
