@@ -65,6 +65,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Priyank_Khatri/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/priyankhatrii/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank.khatri.cg@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-00F5FF?style=for-the-badge&logo=googledrive&logoColor=black)](https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/main/resume.pdf)
 
 </div>
 
