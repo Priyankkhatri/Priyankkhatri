@@ -1,25 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=200&section=header&text=Priyank%20Khatri&fontSize=60&fontColor=00F5FF&fontAlignY=38&desc=BTech%20CSE%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20MERN%20Developer&descAlignY=58&descSize=18&descColor=8892b0&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=210&section=header&text=Priyank%20Khatri&fontSize=60&fontColor=00F5FF&fontAlignY=35&desc=BTech%20CSE%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20MERN%20Developer&descAlignY=55&descSize=18&descColor=8892b0&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=Full+Stack+%2F+MERN+Developer+%F0%9F%9A%80;AI+Product+Builder+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Always+Building+%2C+Always+Learning+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=520&height=50&lines=Full+Stack+%2F+MERN+Developer+%F0%9F%9A%80;AI+Product+Builder+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;DSA+%26+Problem+Solver+%F0%9F%A7%A0;Always+Building%2C+Always+Learning+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solver-00F5FF?style=for-the-badge&logo=leetcode&logoColor=black)
 ![MERN](https://img.shields.io/badge/Stack-MERN%20Developer-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black)
 ![AI](https://img.shields.io/badge/Focus-AI%20Product%20Builder-00F5FF?style=for-the-badge&logo=openai&logoColor=black)
 ![Learning](https://img.shields.io/badge/Always-Learning-00F5FF?style=for-the-badge&logo=readthedocs&logoColor=black)
 
+<img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,100:1a1a2e&height=50&animation=fadeIn" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- BIO SNIPPET -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+```javascript
+const priyank = {
+  role: "Full-Stack (MERN) Developer",
+  focusAreas: ["System Design", "AI Product Building", "DSA & Problem Solving"],
+  languages: ["C", "C++", "JavaScript", "Python"],
+  currentlyLearning: "Advanced Backend Architecture & System Design",
+  funFact: "[add something fun about yourself here]",
+};
+```
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyankkhatri&label=Profile+Views&color=00F5FF&style=for-the-badge" alt="Profile Views"/>
+
+> Turning ideas into shipped code — one clean commit at a time.
+
 </div>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ABOUT ME -->
@@ -54,7 +72,28 @@
 </td>
 </tr>
 </table>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=curve&color=0:1a1a2e,100:16213e&height=50&animation=twinkling" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- RIGHT NOW -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🎯 &nbsp;Right Now
+
+- 🔭 &nbsp;**Currently working on:** `[add your current project]`
+- 🌱 &nbsp;**Currently leveling up:** System Design & Advanced Backend Architecture
+- 🧠 &nbsp;**Currently sharpening:** DSA & competitive problem solving
+- 🤝 &nbsp;**Open to collaborating on:** MERN-stack & AI-powered product ideas
+- 💬 &nbsp;**Ask me about:** React, Node.js, MongoDB, or system design
+- 📫 &nbsp;**Reach me at:** [priyank.khatri.cg@gmail.com](mailto:priyank.khatri.cg@gmail.com)
+- ⚡ &nbsp;**Fun fact:** `[add a fun fact about yourself]`
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🌐 &nbsp;Connect With Me
 
@@ -69,8 +108,7 @@
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:16213e,100:1a1a2e&height=50&animation=fadeIn" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
@@ -102,8 +140,7 @@
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- GITHUB ANALYTICS -->
@@ -113,16 +150,56 @@
 
 <div align="center">
 
-<img src="https://github-stats-alpha.vercel.app/api?username=Priyankkhatri&cc=0d1117&tc=00f5ff&ic=00f5ff&bc=0d1117"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Priyankkhatri&cc=0d1117&tc=00f5ff&ic=00f5ff&bc=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankkhatri&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=8892b0&langs_count=8" width="42%"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Priyankkhatri&theme=tokyonight&hide_border=true" height="180em"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyankkhatri&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyankkhatri&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
+
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0D0D0D&height=50&animation=twinkling" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake animation eating through the contribution graph" src="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>Auto-updates daily once the included <code>snake.yml</code> workflow is added to this repo — see the setup note below.</sub>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- DSA / LEETCODE -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧩 &nbsp;DSA & Competitive Programming
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Priyank_Khatri?theme=dark&font=Fira%20Code&ext=heatmap" width="100%"/>
+</div>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- CONTRIBUTION GRAPH -->
@@ -134,8 +211,13 @@
   <img src="https://ghchart.rshah.org/00F5FF/Priyankkhatri" alt="Priyank's GitHub Chart" width="100%"/>
 </div>
 
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0D0D,100:1a1a2e&height=50&animation=fadeIn" width="100%"/>
+
+<div align="center">
+
+### 💭 &nbsp;Thanks for stopping by — let's build something worth shipping.
+
+</div>
 
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Code%20%E2%80%A2%20Lift%20%E2%80%A2%20Build%20%E2%80%A2%20Repeat&fontSize=20&fontColor=00F5FF&fontAlignY=65&animation=fadeIn" width="100%"/>
