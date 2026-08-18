@@ -23,20 +23,8 @@
 <!-- BIO SNIPPET -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-```javascript
-const priyank = {
-  role: "Full-Stack (MERN) Developer",
-  focusAreas: ["System Design", "AI Product Building", "DSA & Problem Solving"],
-  languages: ["C", "C++", "JavaScript", "Python"],
-  currentlyLearning: "Advanced Backend Architecture & System Design",
-  funFact: "[add something fun about yourself here]",
-};
-```
-
 <div align="center">
-
-> Turning ideas into shipped code — one clean commit at a time.
-
+  <img src="assets/bio-terminal.svg" alt="Priyank's animated bio — typing terminal" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
