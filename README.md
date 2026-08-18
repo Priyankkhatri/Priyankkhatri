@@ -75,7 +75,6 @@
 - 🤝 &nbsp;**Open to collaborating on:** MERN-stack & AI-powered product ideas
 - 💬 &nbsp;**Ask me about:** React, Node.js, MongoDB, or system design
 - 📫 &nbsp;**Reach me at:** [priyank.khatri.cg@gmail.com](mailto:priyank.khatri.cg@gmail.com)
-- ⚡ &nbsp;**Fun fact:** `[add a fun fact about yourself]`
 
 ---
 
