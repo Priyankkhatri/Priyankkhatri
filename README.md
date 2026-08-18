@@ -69,7 +69,7 @@
 
 ## 🎯 &nbsp;Right Now
 
-- 🔭 &nbsp;**Currently working on:** `[add your current project]`
+- 🔭 &nbsp;**Currently working on:** Mastering my skills.
 - 🌱 &nbsp;**Currently leveling up:** System Design & Advanced Backend Architecture
 - 🧠 &nbsp;**Currently sharpening:** DSA & competitive problem solving
 - 🤝 &nbsp;**Open to collaborating on:** MERN-stack & AI-powered product ideas
