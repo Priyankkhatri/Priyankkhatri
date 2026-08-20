@@ -170,7 +170,6 @@
   <img alt="A snake animation eating through the contribution graph" src="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<sub>Auto-updates daily once the included <code>snake.yml</code> workflow is added to this repo — see the setup note below.</sub>
 
 </div>
 
