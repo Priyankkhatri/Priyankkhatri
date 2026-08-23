@@ -138,15 +138,10 @@
 <div align="center">
 
 <img src="https://github-stats-alpha.vercel.app/api?username=Priyankkhatri&cc=0d1117&tc=00f5ff&ic=00f5ff&bc=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankkhatri&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=8892b0&langs_count=8" width="42%"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Priyankkhatri&theme=tokyonight&hide_border=true" height="180em"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyankkhatri&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
 <br/><br/>
 
