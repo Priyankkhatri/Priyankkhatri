@@ -1,25 +1,185 @@
-<svg viewBox="0 0 920 292" xmlns="http://www.w3.org/2000/svg" font-family="SFMono-Regular, Consolas, Menlo, monospace" xml:space="preserve">
-<rect x="1" y="1" width="918" height="290" rx="14" fill="#0d1117" stroke="#1a1a2e" stroke-width="1.5"/>
+<svg viewBox="0 0 920 316" xmlns="http://www.w3.org/2000/svg" font-family="SFMono-Regular, Consolas, Menlo, monospace" xml:space="preserve">
+
+<rect x="1" y="1" width="918" height="314" rx="14" fill="#0d1117" stroke="#1a1a2e" stroke-width="1.5"/>
+
+<!-- Window controls -->
 <circle cx="30" cy="18" r="6" fill="#ff5f56"/>
 <circle cx="50" cy="18" r="6" fill="#ffbd2e"/>
 <circle cx="70" cy="18" r="6" fill="#27c93f"/>
 <text x="92" y="22" font-size="12" fill="#8892b0">bio.js</text>
+
 <line x1="0" y1="36" x2="920" y2="36" stroke="#1a1a2e" stroke-width="1.5"/>
-<clipPath id="clipL0"><rect x="24" y="50" width="0" height="24"><animate attributeName="width" from="0" to="173.4" begin="0.35s" dur="0.77s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="28" y="66" font-size="13" clip-path="url(#clipL0)"><tspan fill="#ff7b72">const</tspan><tspan fill="#e6edf3"> priyank = {</tspan></text>
-<clipPath id="clipL1"><rect x="44" y="74" width="0" height="24"><animate attributeName="width" from="0" to="322.6" begin="1.3s" dur="1.62s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="48" y="90" font-size="13" clip-path="url(#clipL1)"><tspan fill="#00F5FF">role</tspan><tspan fill="#8892b0">: </tspan><tspan fill="#7ee787">"Full-Stack (MERN) Developer"</tspan><tspan fill="#8892b0">,</tspan></text>
-<clipPath id="clipL2"><rect x="44" y="98" width="0" height="24"><animate attributeName="width" from="0" to="652.3" begin="3.1s" dur="3.51s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="48" y="114" font-size="13" clip-path="url(#clipL2)"><tspan fill="#00F5FF">focusAreas</tspan><tspan fill="#8892b0">: [</tspan><tspan fill="#7ee787">"System Design"</tspan><tspan fill="#8892b0">, </tspan><tspan fill="#7ee787">"AI Product Building"</tspan><tspan fill="#8892b0">, </tspan><tspan fill="#7ee787">"DSA &amp; Problem Solving"</tspan><tspan fill="#8892b0">],</tspan></text>
-<clipPath id="clipL3"><rect x="44" y="122" width="0" height="24"><animate attributeName="width" from="0" to="416.8" begin="6.79s" dur="2.16s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="48" y="138" font-size="13" clip-path="url(#clipL3)"><tspan fill="#00F5FF">languages</tspan><tspan fill="#8892b0">: [</tspan><tspan fill="#7ee787">"C"</tspan><tspan fill="#8892b0">, </tspan><tspan fill="#7ee787">"C++"</tspan><tspan fill="#8892b0">, </tspan><tspan fill="#7ee787">"JavaScript"</tspan><tspan fill="#8892b0">, </tspan><tspan fill="#7ee787">"Python"</tspan><tspan fill="#8892b0">],</tspan></text>
-<clipPath id="clipL4"><rect x="44" y="146" width="0" height="24"><animate attributeName="width" from="0" to="565.9" begin="9.13s" dur="3.01s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="48" y="162" font-size="13" clip-path="url(#clipL4)"><tspan fill="#00F5FF">currentlyLearning</tspan><tspan fill="#8892b0">: </tspan><tspan fill="#7ee787">"Advanced Backend Architecture &amp; System Design"</tspan><tspan fill="#8892b0">,</tspan></text>
-<clipPath id="clipL5"><rect x="44" y="170" width="0" height="24"><animate attributeName="width" from="0" to="440.3" begin="12.32s" dur="2.29s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="48" y="186" font-size="13" clip-path="url(#clipL5)"><tspan fill="#00F5FF">funFact</tspan><tspan fill="#8892b0">: </tspan><tspan fill="#e3b341" font-style="italic">"[add something fun about yourself here]"</tspan><tspan fill="#8892b0">,</tspan></text>
-<clipPath id="clipL6"><rect x="24" y="194" width="0" height="24"><animate attributeName="width" from="0" to="55.7" begin="14.79s" dur="0.3s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="28" y="210" font-size="13" clip-path="url(#clipL6)"><tspan fill="#e6edf3">};</tspan></text>
-<clipPath id="clipComment"><rect x="24" y="236" width="0" height="24"><animate attributeName="width" from="0" to="542.4" begin="15.42s" dur="2.24s" fill="freeze" calcMode="linear"/></rect></clipPath>
-<text x="28" y="252" font-size="13" clip-path="url(#clipComment)"><tspan fill="#6e7681" font-style="italic">// </tspan><tspan fill="#6e7681" font-style="italic">Turning ideas into shipped code — one clean commit at a time.</tspan></text>
-<rect x="536.4" y="239" width="8" height="16" fill="#00F5FF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.001;0.25;0.5;0.75;1" dur="1s" begin="17.66s" repeatCount="indefinite"/></rect>
+
+<!-- Line 0 -->
+<clipPath id="clipL0">
+  <rect x="24" y="50" width="0" height="24">
+    <animate attributeName="width" from="0" to="173.4" begin="0.35s" dur="0.77s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="28" y="66" font-size="13" clip-path="url(#clipL0)">
+  <tspan fill="#ff7b72">const</tspan>
+  <tspan fill="#e6edf3"> priyank = {</tspan>
+</text>
+
+
+<!-- Line 1 -->
+<clipPath id="clipL1">
+  <rect x="44" y="74" width="0" height="24">
+    <animate attributeName="width" from="0" to="430" begin="1.3s" dur="1.65s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="90" font-size="13" clip-path="url(#clipL1)">
+  <tspan fill="#00F5FF">role</tspan>
+  <tspan fill="#8892b0">: </tspan>
+  <tspan fill="#7ee787">"Full-Stack (MERN) Developer"</tspan>
+  <tspan fill="#8892b0">,</tspan>
+</text>
+
+
+<!-- Line 2 -->
+<clipPath id="clipL2">
+  <rect x="44" y="98" width="0" height="24">
+    <animate attributeName="width" from="0" to="690" begin="3.1s" dur="3.4s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="114" font-size="13" clip-path="url(#clipL2)">
+  <tspan fill="#00F5FF">focusAreas</tspan>
+  <tspan fill="#8892b0">: [</tspan>
+  <tspan fill="#7ee787">"Backend Engineering"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"System Design"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"AI Product Building"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"DSA"</tspan>
+  <tspan fill="#8892b0">],</tspan>
+</text>
+
+
+<!-- Line 3 -->
+<clipPath id="clipL3">
+  <rect x="44" y="122" width="0" height="24">
+    <animate attributeName="width" from="0" to="760" begin="6.75s" dur="3.65s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="138" font-size="13" clip-path="url(#clipL3)">
+  <tspan fill="#00F5FF">languages</tspan>
+  <tspan fill="#8892b0">: [</tspan>
+  <tspan fill="#7ee787">"C"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"C++"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"JavaScript"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"Python"</tspan>
+  <tspan fill="#8892b0">],</tspan>
+</text>
+
+
+<!-- Line 4 -->
+<clipPath id="clipL4">
+  <rect x="44" y="146" width="0" height="24">
+    <animate attributeName="width" from="0" to="770" begin="10.55s" dur="3.8s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="162" font-size="13" clip-path="url(#clipL4)">
+  <tspan fill="#00F5FF">stack</tspan>
+  <tspan fill="#8892b0">: [</tspan>
+  <tspan fill="#7ee787">"React"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"Node.js"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"Express"</tspan>
+  <tspan fill="#8892b0">, </tspan>
+  <tspan fill="#7ee787">"MongoDB"</tspan>
+  <tspan fill="#8892b0">],</tspan>
+</text>
+
+
+<!-- Line 5 -->
+<clipPath id="clipL5">
+  <rect x="44" y="170" width="0" height="24">
+    <animate attributeName="width" from="0" to="730" begin="14.5s" dur="3.55s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="186" font-size="13" clip-path="url(#clipL5)">
+  <tspan fill="#00F5FF">currentlyLearning</tspan>
+  <tspan fill="#8892b0">: </tspan>
+  <tspan fill="#7ee787">"Advanced Backend Architecture &amp; System Design"</tspan>
+  <tspan fill="#8892b0">,</tspan>
+</text>
+
+
+<!-- Line 6 -->
+<clipPath id="clipL6">
+  <rect x="44" y="194" width="0" height="24">
+    <animate attributeName="width" from="0" to="650" begin="18.2s" dur="3.1s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="210" font-size="13" clip-path="url(#clipL6)">
+  <tspan fill="#00F5FF">building</tspan>
+  <tspan fill="#8892b0">: </tspan>
+  <tspan fill="#7ee787">"Scalable Web Apps &amp; AI-powered Products"</tspan>
+  <tspan fill="#8892b0">,</tspan>
+</text>
+
+
+<!-- Line 7 -->
+<clipPath id="clipL7">
+  <rect x="44" y="218" width="0" height="24">
+    <animate attributeName="width" from="0" to="660" begin="21.45s" dur="3.15s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="48" y="234" font-size="13" clip-path="url(#clipL7)">
+  <tspan fill="#00F5FF">mindset</tspan>
+  <tspan fill="#8892b0">: </tspan>
+  <tspan fill="#e3b341" font-style="italic">"Build. Break. Learn. Ship. Repeat."</tspan>
+  <tspan fill="#8892b0">,</tspan>
+</text>
+
+
+<!-- Closing -->
+<clipPath id="clipL8">
+  <rect x="24" y="242" width="0" height="24">
+    <animate attributeName="width" from="0" to="55.7" begin="24.75s" dur="0.3s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="28" y="258" font-size="13" clip-path="url(#clipL8)">
+  <tspan fill="#e6edf3">};</tspan>
+</text>
+
+
+<!-- Comment -->
+<clipPath id="clipComment">
+  <rect x="24" y="274" width="0" height="24">
+    <animate attributeName="width" from="0" to="720" begin="25.35s" dur="2.6s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+
+<text x="28" y="290" font-size="13" clip-path="url(#clipComment)">
+  <tspan fill="#6e7681" font-style="italic">// </tspan>
+  <tspan fill="#6e7681" font-style="italic">Turning ideas into real products — one clean commit at a time.</tspan>
+</text>
+
+
+<!-- Cursor -->
+<rect x="710" y="277" width="8" height="16" fill="#00F5FF" opacity="0">
+  <animate
+    attributeName="opacity"
+    values="0;0;1;1;0;0"
+    keyTimes="0;0.001;0.25;0.5;0.75;1"
+    dur="1s"
+    begin="28s"
+    repeatCount="indefinite"/>
+</rect>
+
 </svg>
