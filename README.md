@@ -54,6 +54,8 @@
 
 💡 &nbsp;**Creative builder** who loves impactful, meaningful tech
 
+📍 &nbsp;Based in **Ahmedabad, Gujarat, India**
+
 </td>
 <td width="45%" align="center" valign="center">
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="300" style="border-radius: 12px;"/>
@@ -90,6 +92,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PriyankKhatrii)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Priyank_Khatri/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/priyankhatrii/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PriyankCreates)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyank.khatri.cg@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20CV-00F5FF?style=for-the-badge&logo=googledrive&logoColor=black)](https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/main/resume.pdf)
 
@@ -130,12 +133,34 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FEATURED OPEN-SOURCE WORK -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Featured Open-Source Work
+
+<div align="center">
+
+![Repositories](https://img.shields.io/badge/Repositories-57-00F5FF?style=for-the-badge&logo=github&logoColor=black)
+![Followers](https://img.shields.io/badge/Followers-3-00F5FF?style=for-the-badge&logo=github&logoColor=black)
+![Location](https://img.shields.io/badge/Based%20in-Ahmedabad%2C%20India-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=black)
+
+<sub>🏆 &nbsp;**Achievements:** Pull Shark ×3 &nbsp;•&nbsp; YOLO &nbsp;•&nbsp; Quickdraw</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0D0D0D&height=50&animation=twinkling" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!-- GITHUB ANALYTICS -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
 <div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=priyankkhatri&theme=zen" width="70%"/>
+
+<br/><br/>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=Priyankkhatri&cc=0d1117&tc=00f5ff&ic=00f5ff&bc=0d1117" width="49%"/>
 
@@ -164,7 +189,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake.svg" />
   <img alt="A snake animation eating through the contribution graph" src="https://raw.githubusercontent.com/Priyankkhatri/Priyankkhatri/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
-
 
 </div>
 
